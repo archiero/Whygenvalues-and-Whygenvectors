@@ -1,0 +1,4 @@
+numpy==1.14.0
+pandas==0.22.0
+bokeh==0.12.15dev6
+ipywidgets==7.1.1
